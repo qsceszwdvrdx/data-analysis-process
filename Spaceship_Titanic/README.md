@@ -3,17 +3,22 @@ kaggle Competitions data : [link](https://www.kaggle.com/competitions/spaceship-
 
 code referene : [link](https://www.kaggle.com/code/computervisi/best-models-spaceship-titanic)
 
+Target : The topic is similar to Titanic, using the features in the data to find out which people will be transported.
+
 The process is divided into 4 parts, namely EDA / fill null / models comparison / models predict
 
+
 ## 1.EDA
-初步探索raw data
+>Preliminary exploration of raw data.
+
+raw data : 13 features & 1 label (transpored)
+
 
 ## 2.fill null 
-填補缺值
-如果現有資料有高度相關的特徵存在，用最相近的數值填補缺值。
+>If there are highly correlated features in the existing data, fill missing values with the nearest available numerical values.
 
 ## 3.models comparison
-比較模型的效果，運行時間及準確率。
+>Compare the model's performance, runtime, and accuracy.
 
 ## 4.model predict
-將資料放入模型預測
+>Input the data into the model for prediction. Select the top five models based on accuracy for individual testing and comprehensive evaluation.
