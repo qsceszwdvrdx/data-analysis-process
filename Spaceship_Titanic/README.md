@@ -31,6 +31,7 @@ raw data : 13 features & 1 label (transpored)
 |Transported |Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.|        |
 
 Visualize the difference between each feature and whether it is transported.
+
 There is a method on kaggle to use last name, but I choose not to use it.
 
 ## 2.fill null 
