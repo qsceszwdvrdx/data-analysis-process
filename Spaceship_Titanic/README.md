@@ -42,3 +42,12 @@ There is a method on kaggle to use last name, but I choose not to use it.
 
 ## 4.model predict
 >Input the data into the model for prediction. Select the top five models based on accuracy for individual testing and comprehensive evaluation.
+
+There is not much accuracy difference between the five models, and combining all the models to make prediction scores does not significantly improve it.
+
+### kaggle score
+
+![image](https://github.com/qsceszwdvrdx/data-analysis-process/assets/55731801/663fef09-01dc-4c7b-bfa1-e268c4ae6d2a)
+
+
+
